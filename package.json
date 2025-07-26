@@ -1,0 +1,15 @@
+{
+  "name": "robotics-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agler",
+  "license": "MIT",
+  "description": "App for algae and coral communication",
+  "devDependencies": {
+    "electron": "^37.2.4"
+  }
+}
